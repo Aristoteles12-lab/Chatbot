@@ -10,7 +10,7 @@
 ---
 
 ## 📝 **Descrição**  
-Chatbot desenvolvido como parte do desafio técnico. O sistema classifica intenções do usuário (como solicitações de troca, garantia e status de pedidos) usando redes neurais e processamento de linguagem natural (NLP).  
+Chatbot desenvolvido como parte de um desafio técnico. O sistema classifica intenções do usuário (como solicitações de troca, garantia e status de pedidos) usando redes neurais e processamento de linguagem natural (NLP).  
 
 **Objetivo**: Demonstrar a aplicação de IA para otimizar atendimentos recorrentes em cenários operacionais.  
 
